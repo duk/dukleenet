@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hi"
+date:   2016-09-23 00:54:24 -0700
+categories: update
+---
+I will be talking about UI stuff here.
+
+[other-site]: https://masterfrontend.com
