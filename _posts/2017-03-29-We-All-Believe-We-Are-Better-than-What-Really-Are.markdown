@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We all believe that we are better than what we actually are"
-date:   2017-03-30 04:28:24 -07002
+date:   2017-03-29 04:28:24 -07002
 categories: life
 ---
 
