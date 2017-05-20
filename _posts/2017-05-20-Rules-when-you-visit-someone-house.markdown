@@ -1,8 +1,15 @@
 ---
 layout: post
-title:  "Rules when you visit someone's house"
-date:   2017-05-20 00:00:00 -07002
-categories: manners
+title:  "Following a professional sport team"
+date:   2017-05-21 00:00:00 -07002
+categories: sports
 ---
 
-Avoid meal time unless you are invited for meal time. If you aren't, make sure you leave before meal time or visit after meal time. 
+It's one of the dumbest things that people do that needs to be stopped.
+
+1. It eats up your time.
+2. It eats up your emotions.
+3. But it's something that you have no control over.
+4. So it aint's worth it.
+
+Stop.
