@@ -5,7 +5,7 @@ date:   2017-07-08 05:55:00 -07002
 categories: learning
 ---
 
-If you are using Windows 10, add these two to your Visual Studio Code settings. What it does it to swap out default powershell to Bash on Ubuntu on Windows. Now you and do whatever you want. 
+If you are using Windows 10, add these two to your Visual Studio Code settings. What it does is to swap out default powershell to Bash on Ubuntu on Windows. Now you can do whatever you want. 
 
 {% highlight json %}
 {
