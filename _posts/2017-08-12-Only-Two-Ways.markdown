@@ -11,4 +11,4 @@ O.K.
 
 There is only one truth we know from his argument; he does not like Russell and he has man-crush on Lebron James. It's that simple. Any debate isn't about facts. It's about defending your belief by cherrypicking the ones that favor you and ignoring ones that don't. Everyone does the same thing. I do. You do. 
 
-So the only thing you can do is to be aware what you are doing. Again, you cannot prevent you from falling into confirmation bias. You just have to be aware that you are doing it.
+So the only thing you can do is to be aware what you are doing. Again, you cannot prevent you from falling into confirmation bias. You just have to be aware that nobody is above it including you.
