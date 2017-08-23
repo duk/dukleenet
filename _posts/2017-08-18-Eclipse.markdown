@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Eclipse"
+date:   2017-08-18 19:13:00 -07002
+categories: technology
+---
+
+Eclipse is such a crappy product. It looks terrible on 4k monitor.
