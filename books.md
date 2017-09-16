@@ -9,7 +9,6 @@ Books are the best way to "get ahead" in life. If your kid loves reading, she wi
 # Reading
 
 - [Designing Data-Intensive Applications](http://a.co/dBuTJnk)
-- [Designing Data-Intensive Applications](http://a.co/dBuTJnk)
 - [If Hemingway Wrote JavaScript](http://a.co/j92fMO8)
 - [Algorithms For Dummies](https://www.amazon.com/dp/1119330491/ref=cm_sw_r_cp_dp_T1_E6kDzb01C6FJZ)
 
