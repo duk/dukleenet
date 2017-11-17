@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Polymer"
-date:   2016-11-19 07:33:24 -0700
-categories: web webdevelopment 
----
-
-I like [Polymer](https://www.polymer-project.org/1.0/). It fits my style way better than ReactJs.

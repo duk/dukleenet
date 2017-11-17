@@ -48,4 +48,4 @@ Books are the best way to "get ahead" in life. If your kid loves reading, she wi
 - [The Four Agreements](https://www.amazon.com/dp/1878424319/ref=cm_sw_r_cp_dp_T1_SflDzb01J9KHG)
 - [The Mental Game of Baseball: A Guide to Peak Performance](https://www.amazon.com/dp/1888698543/ref=cm_sw_r_cp_dp_T1_qklDzbZPAZKCG)
 - [Unconditional Parenting: Moving from Rewards and Punishments to Love and Reason](https://www.amazon.com/dp/0743487486/ref=cm_sw_r_cp_dp_T1_RllDzbRRKNSER)
-- [The Phantom Tollbooth](https://www.amazon.com/dp/0743487486/ref=cm_sw_r_cp_dp_T1_RllDzbRRKNSER)
+- [The Phantom Tollbooth](http://a.co/2Vr876v)

@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Sonos" 
-date:   2017-08-19 06:59:00 -07002
-categories: product
----
-
-Sonos makes awesome products. I am constantly amazed by how their products do not age as quickly as other gadgets do.

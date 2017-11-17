@@ -1,8 +1,0 @@
----
-layout: post
-title:  "gomix.com"
-date:   2016-12-07 05:24:24 -07002
-categories: technology
----
-
-[gomix.com](https://gomix.com) is an excellent site where you can showcase your work. Planning to use it extensively to build up my portfolio.
