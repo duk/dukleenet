@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuck Twitter"
-date:   2016-12-01 13:35:24 -0700
+date:   2017-12-01 13:35:24 -0700
 categories: fuckyou
 ---
 
