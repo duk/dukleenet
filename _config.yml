@@ -19,6 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
   I build websites
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://duklee.net" # the base hostname & protocol for your site, e.g. http://example.com
+plugins_dir:
+  - jekyll-sitemap
 twitter_username: mrduklee
 github_username:  duk
 
