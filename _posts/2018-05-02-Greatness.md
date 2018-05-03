@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mastery"
+title:  "Greatness"
 date:   2018-05-02 15:18:24 -0700
 categories: life
 ---
