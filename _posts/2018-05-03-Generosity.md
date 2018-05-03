@@ -17,9 +17,9 @@ But hey, it's the thought that counts. Yes, if you live in poor neighbor hood wo
 
 My son knows this kid and his Dad works from home. And I just haven't seen his fucking face once in any volunteering event. My wife makes me to volunteer. That's what good wife does. But again shitty people end up with shitty people. 
 
-Anyway, I almost ruined my wife hanging out with shitty people during my teenager years. So I closely watch what type of people my kids associate with. 
+Anyway, I almost ruined my life hanging out with shitty people during my teenager years. So I closely watch what type of people my kids associate with. 
 
-Here is the thing. I just need to look at their parents to see what type of kids they are.  
+Here is the thing. I just need to look at their parents to see what type of kids they are. It's that simple. 
 
 ![Alt text](/images/generosity.jpg)
 
