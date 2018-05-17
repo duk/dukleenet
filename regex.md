@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Regex
+permalink: /regex/
 ---
 
 My name is Duk and I build websites for a living. I am currently focusing on UX part of things; JavaScript and CSS in general. I am well versed with
