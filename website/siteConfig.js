@@ -21,9 +21,9 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
-  url: 'https://your-docusaurus-test-site.com' /* your website url */,
+  title: 'Duk' /* title for your website */,
+  // tagline: 'A website for testing',
+  url: 'https://duklee.net' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -38,9 +38,8 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
+    {doc: 'about', label: 'About'},
+    {doc: 'mastery', label: 'Mastery'},
     {blog: true, label: 'Blog'},
   ],
 
@@ -48,9 +47,9 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  // headerIcon: 'img/docusaurus.svg',
+  // footerIcon: 'img/docusaurus.svg',
+  // favicon: 'img/favicon.png',
 
   /* colors for website */
   colors: {
@@ -74,11 +73,11 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Duk Lee',
+    ' Your Name or Your Company Name',
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
-    theme: 'default',
+    theme: 'atom-one-dark',
   },
 
   // Add custom scripts here that would be placed in <script> tags

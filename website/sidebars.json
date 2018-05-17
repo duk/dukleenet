@@ -1,10 +1,12 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
+  "about": {
+    "Docusaurus": ["about"],
+    "First Category": ["books"],
     "Second Category": ["doc3"]
+
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "mastery": {
+    "Mastery": ["mastery"],
+    "Frontend": ["javascript", "css"]
   }
 }
