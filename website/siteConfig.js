@@ -37,11 +37,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    {doc: 'about', label: 'About'},
-    {doc: 'mastery', label: 'Mastery'},
-    {blog: true, label: 'Blog'},
-  ],
+  headerLinks: [],
 
   // If you have users set above, you add it here:
   users,
@@ -53,7 +49,7 @@ const siteConfig = {
 
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
+    primaryColor: '#0a0a0a',
     secondaryColor: '#205C3B',
   },
 
@@ -73,7 +69,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+    ' Duk Lee',
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
