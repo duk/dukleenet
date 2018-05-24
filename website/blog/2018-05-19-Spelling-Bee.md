@@ -19,4 +19,9 @@ cat pro_only.txt | grep '.*|[^,]*ə[^,]*ə,' | wc -l
 
 # finds words that contains certain chraters. e.g. dd
 grep '^[a-z]*dd[a-z]*|' words.txt
+
+# find 'ir' sounding words that spell 'ear'
+grep '^[a-z]*ear[a-z]*|[a-z]*|[^|]*ir[^|]*' words.txt
+
+grep '^[a-z]*ear[a-z]*|[a-z]*|[^|]*ir[^|]*' words.txt
 ```
