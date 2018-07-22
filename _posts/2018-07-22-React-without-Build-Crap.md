@@ -7,7 +7,7 @@ categories: reactjs
 
 Don't get me wrong. I like ReactJs.
 
-What I do not like is the whole build system around it. I believe it's overwhelming and encourages shallow knowledge on the subject. If you want to learn ReactJS the right way, do you spend hours setting up environment. Don't even use create-react-app for that matter; do not fall for 'just use my shit so that I keep all the knowledge and you stay as my dumb user who really know anything.' 
+What I do not like is the whole build system around it. I believe it's overwhelming and encourages shallow knowledge on the subject. If you want to learn ReactJS the right way, don't waste your time setting up environment. Don't even use create-react-app for that matter; do not fall for 'just use my shit so that I keep all the knowledge and you stay as my dumb user who really know anything.' 
 
 
 ```html
