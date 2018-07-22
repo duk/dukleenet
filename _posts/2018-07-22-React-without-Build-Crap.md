@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "React without Build Crap"
-date:   2018-05-18 13:25:20 -0700
+date:   2018-07-22 10:40:20 -0700
 categories: reactjs
 ---
 
