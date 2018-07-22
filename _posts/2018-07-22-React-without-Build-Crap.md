@@ -22,7 +22,7 @@ categories: jekyll update
 
 ```
 
-```javascript 1.8
+```javascript
 const e = React.createElement;
 
 function NumberList(props) {
